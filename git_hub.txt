@@ -1,0 +1,58 @@
+VANTAGEM
+CRIA UM versionamento
+sempre que vc subir um pojeto ele cria uma versão
+
+Limite de armazenamento é de 5GB
+
+
+
+O google nomeia seus projetos como doces
+A microsft usava nomes gregos
+apple usava felinos
+
+vamos criar grupos 
+
+entrar no github
+como criar projeto
+---sinal de mais
+---new repository
+(Please verify your email address)
+
+
+Project
+automate kanban
+
+settings
+	colaborators -- ADD COLBORATORS
+
+https://git-scm.com/download/win
+
+git bash
+
+cd desktop
+mkdir projeto
+
+git pull orange master
+
+ls
+cd projeto
+
+primeiro comando para subir
+git add . (enter)
+git commit -m "Meu nome e data"
+git push origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
